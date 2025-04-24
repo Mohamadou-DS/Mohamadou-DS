@@ -35,7 +35,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la tech, l'intelligence
 ## 📫 Me contacter
 
 - Email : medcapt66@gmail.com 
-- LinkedIn : (https://www.linkedin.com/in/mohamadou-ds)
+- LinkedIn : ([https://www.linkedin.com/in/mohamadou-ds](https://www.linkedin.com/in/b%C3%A0-mohamadou-adama-0821972a3/))
 
 ---
 

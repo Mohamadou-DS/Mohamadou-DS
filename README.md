@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Mohamadou-DS</h1>
+<h1 align="center">👋 Hi, I’m Ba Mohamadou Adama</h1>
 
 <p align="center">
   <em>Data & AI Enthusiast | Python Developer | Tech for Good Advocate</em>

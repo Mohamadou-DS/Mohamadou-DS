@@ -1,54 +1,73 @@
-# 👋 Hello, I’m Mohamadou Ba
+<h1 align="center">👋 Hi, I’m Mohamadou-DS</h1>
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par la tech, l'intelligence artificielle et le développement de solutions innovantes.
-
----
-
-## 👀 Centres d’intérêt
-
-- Intelligence Artificielle & Machine Learning  
-- Data Science & Big Data  
-- Développement web (Django, React)  
-- Systèmes intelligents & projets à impact social  
-- Startups & entreprenariat tech  
+<p align="center">
+  <em>Data & AI Enthusiast | Python Developer | Tech for Good Advocate</em>
+</p>
 
 ---
 
-## 🌱 Actuellement en train d’apprendre
-
-- Deep Learning appliqué à la vision par ordinateur  
-- Reconnaissance faciale et biométrie  
-- Optimisation des modèles d’IA pour environnements à ressources limitées  
-- Développement de produits IA commercialisables  
-
----
-
-## 💞️ Je cherche à collaborer sur
-
-- Projets open-source dans le domaine de la Data/IA  
-- Solutions technologiques pour l’Afrique  
-- Applications de santé, sécurité, ou smart cities  
-- Chatbots intelligents et systèmes d’assistance automatisés  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA%20for%20Good-%F0%9F%8C%8D-lightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Me contacter
+## 👀 What I’m Interested In
 
-- Email : medcapt66@gmail.com 
-- LinkedIn : ([https://www.linkedin.com/in/mohamadou-ds](https://www.linkedin.com/in/b%C3%A0-mohamadou-adama-0821972a3/))
-
----
-
-## 😄 Pronoms
-
-Il / Lui
+- Applied AI & Machine Learning  
+- Smart Cities & Urban Innovation  
+- Medical AI & Epidemic Prediction  
+- SaaS & Scalable Tech Products  
+- Open-source projects for Africa 🌍  
 
 ---
 
-## ⚡ Fun fact
+## 🌱 Currently Learning
 
-J’ai un faible pour les projets qui transforment de grandes idées en petits miracles technologiques ! 🌍✨
+- Advanced deep learning & facial recognition  
+- LLMs & chatbot fine-tuning with OpenAI  
+- AI system optimization for low-resource devices  
+- Cloud deployment (Vercel, GCP, Docker)
 
 ---
 
-> *"Code with purpose, innovate with heart."*
+## 💞️ Looking to Collaborate On
+
+- Open-source AI tools  
+- Civic Tech & Smart Solutions  
+- Educational platforms using Python  
+- Startup-ready AI MVPs  
+
+---
+
+## 📫 How to Reach Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadou.ds@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamadou-ds)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamadou_DS)
+
+---
+
+## 😄 Pronouns
+
+He / Him (Il / Lui)
+
+---
+
+## ⚡ Fun Fact
+
+I believe AI should **empower communities**, not replace them. Let's build the future—**together**.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamadou-DS&show_icons=true&theme=radical&hide=prs"/>
+</p>
+
+---
+
+> *"Code with purpose. Innovate with heart."*
